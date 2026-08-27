@@ -312,6 +312,7 @@ pp.ProfileReport(df).to_file("data_profile_report.html")
   ├── summary_report.pdf
   ├── README.md
   ├── charts
+  ├── video
   └── requirements.txt
   ```
 
