@@ -311,6 +311,7 @@ pp.ProfileReport(df).to_file("data_profile_report.html")
   ├── final_prepared_rides_dataset.csv
   ├── summary_report.pdf
   ├── README.md
+  ├── charts
   └── requirements.txt
   ```
 
